@@ -3,6 +3,7 @@ body{
     animation:transition 0.75s;
     background-color: black;
     color: white;
+    font-size: 18px;
 }
 .d-block{
     height: 100vh;
