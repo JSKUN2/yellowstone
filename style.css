@@ -130,5 +130,6 @@ body{
     .kartu{
         width:100%;
         align-items:center;
+        text-aligns:center;
     }
 }
