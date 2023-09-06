@@ -120,6 +120,7 @@ body{
     }
     .card{
         margin-left: 0px;
+        align-items:center;
     }
     .isi div{
         margin-left: 0px;
