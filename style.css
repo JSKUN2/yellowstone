@@ -127,4 +127,8 @@ body{
     .slideshow-caption h1{
         font-size: 40px;
     }
+    .kartu{
+        width:100%;
+        align-items:center;
+    }
 }
