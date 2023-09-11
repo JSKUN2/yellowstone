@@ -119,16 +119,12 @@ body{
         margin-left: 0;
     }
     .card{
-        margin-left: 0;
+        margin-left: 25%;
     }
     .isi div{
         margin-left: 0px;
     }
     .slideshow-caption h1{
         font-size: 40px;
-    }
-    .kartu{
-        align-items:center;
-        margin-left: 25%;
     } 
 }
